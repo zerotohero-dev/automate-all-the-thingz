@@ -1,0 +1,27 @@
+{
+  "name": "automate-all-the-thingz",
+  "version": "0.0.1",
+  "description": "Helps automate the testing and deployment of a group of npm modules that are hosted in GitHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsbites/automate-all-the-thingz.git"
+  },
+  "keywords": [
+    "automation",
+    "octomate",
+    "ci/cd"
+  ],
+  "author": "Volkan Özçelik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsbites/automate-all-the-thingz/issues"
+  },
+  "homepage": "https://github.com/jsbites/automate-all-the-thingz#readme",
+  "dependencies": {
+    "octomate": "^0.2.0"
+  }
+}
