@@ -11,7 +11,7 @@
 
 ## Summary
 
-This is a demo repository, that I used when I created a screencast about automation.
+This is a demo repository that I used when I created a screencast about automation.
 
 Sorry, not much to see here **:(**.
 
