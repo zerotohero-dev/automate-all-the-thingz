@@ -42,11 +42,11 @@ It is a compilation of short (*more or less five minutes long*) bi-weekly screen
 ## Contact Information
 
 * **Project Maintainer**: [Volkan Özçelik](https://volkan.io/)
-* **Project Website**: <https://bytesized.tv>
+* **Project Website**: [bytesized.tv](https://bytesized.tv/)
 
 ## License
 
-MIT-licensed. — See [the license file](LICENSE.md) for details.
+MIT-licensed. — [See the license file for details](LICENSE.md).
 
 ## Code of Conduct
 
