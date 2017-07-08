@@ -1,6 +1,6 @@
 {
   "name": "automate-all-the-thingz",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Helps automate the testing and deployment of a group of npm modules that are hosted in GitHub.",
   "main": "index.js",
   "scripts": {
@@ -9,15 +9,28 @@
   "repository": "git+https://github.com/jsbites/automate-all-the-thingz.git",
   "keywords": [
     "automation",
+    "byte-sized javascript",
+    "byte-sized",
+    "bytesized.tv",
+    "ci/cd",
+    "demos",
+    "education",
+    "javascript",
+    "learning",
     "octomate",
-    "ci/cd"
+    "podcast",
+    "screencast",
+    "tutorials",
+    "vidcast",
+    "videocast",
+    "videos"
   ],
   "author": "Volkan Özçelik <me@volkan.io> (https://volkan.io/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jsbites/automate-all-the-thingz/issues"
   },
-  "homepage": "https://github.com/jsbites/automate-all-the-thingz#readme",
+  "homepage": "https://bytesized.tv/",
   "dependencies": {
     "octomate": "^0.3.1"
   }
